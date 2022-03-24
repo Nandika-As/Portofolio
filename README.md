@@ -19,8 +19,16 @@ very good chance to convert casual riders into members. She notes that casual ri
 program and have chosen Cyclistic for their mobility needs.
 
 **Dataset:** Q1 2021 of Lyft Bikes and Scooters. The data has been made available by Motivate International Inc. [under this license](https://ride.divvybikes.com/data-license-agreement).
-**Library:** R , ggplot2, lubridate, tidyverse, wordcloud, RColorBrewer, wordcloud2, data.table
-**Result:** 
+
+**Library:**  ggplot2, lubridate, tidyverse, wordcloud, RColorBrewer, wordcloud2, data.table
+
+**Result:** 1. Optimize
 
 ## Insight
-1. 
+* from 692 Station there is top 5 station
+  1. Clark St & Elm St
+  2. Dearbom St & Erie St
+  3. Kingsbury St & Kinzie St
+  4. Lake Shore Dr & Monroe St
+  5. St. Clair St & Erie St
+* From top 5 station only Lake Shore Dr 
