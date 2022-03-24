@@ -18,5 +18,9 @@ be key to future growth. Rather than creating a marketing campaign that targets 
 very good chance to convert casual riders into members. She notes that casual riders are already aware of the Cyclistic
 program and have chosen Cyclistic for their mobility needs.
 
+**Dataset:** Q1 2021 of Lyft Bikes and Scooters. The data has been made available by Motivate International Inc. [under this license](https://ride.divvybikes.com/data-license-agreement).
+**Library:** R , ggplot2, lubridate, tidyverse, wordcloud, RColorBrewer, wordcloud2, data.table
+**Result:** 
+
 ## Insight
 1. 
